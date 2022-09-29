@@ -11,7 +11,7 @@ If you're submitting a pull request to fix a bug, read the
 [Contributing guidelines](https://github.com/GoogleChrome/developer.chrome.com/blob/main/CONTRIBUTING.md).
 
 ## Authoring content ✍️
-
+In
 Before you start writing take a moment to look over the
 [developer.chrome.com handbook](https://developer.chrome.com/docs/handbook) and
 familiarize yourself with the process.
